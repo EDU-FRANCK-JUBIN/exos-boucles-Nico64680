@@ -1,0 +1,6 @@
+C:\Users\nicol\source\repos\exos-boucles-Nico64680\TpBoucle\TpBoucle\bin\Debug\TpBoucle.exe.config
+C:\Users\nicol\source\repos\exos-boucles-Nico64680\TpBoucle\TpBoucle\bin\Debug\TpBoucle.exe
+C:\Users\nicol\source\repos\exos-boucles-Nico64680\TpBoucle\TpBoucle\bin\Debug\TpBoucle.pdb
+C:\Users\nicol\source\repos\exos-boucles-Nico64680\TpBoucle\TpBoucle\obj\Debug\TpBoucle.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\exos-boucles-Nico64680\TpBoucle\TpBoucle\obj\Debug\TpBoucle.exe
+C:\Users\nicol\source\repos\exos-boucles-Nico64680\TpBoucle\TpBoucle\obj\Debug\TpBoucle.pdb
